@@ -1,0 +1,6 @@
+Open Resource exclude Setting
+ - Project > Proerties > Resource > Resource Filters > Add Filter >
+	Filter Type : Exclude all
+	Applies to : Folders
+	All children(recursive)
+	Name matches bin (or target - children check not required)
